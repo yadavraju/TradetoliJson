@@ -1,0 +1,48 @@
+{
+  "event": [
+    {
+      "id": "1",
+      "eventName": "Who will the cricket match between Nepal and Oman",
+      "eventType": "top",
+      "yesPrice": "5",
+      "noPrice": "5",
+      "eventCategory": "game",
+      "expirationTime": "2022-05-14T04:39:06.458Z",
+      "tag": "#Game#Nepal#Oman",
+      "totalNumberOfPeople": "50K"
+    },
+    {
+      "id": "2",
+      "eventName": "Who will the cricket match between Nepal and Oman",
+      "eventType": "top",
+      "yesPrice": "6",
+      "noPrice": "4",
+      "eventCategory": "game",
+      "expirationTime": "2022-05-14T04:39:06.458Z",
+      "tag": "#Game#Nepal#Oman",
+      "totalNumberOfPeople": "50K"
+    },
+    {
+      "id": "3",
+      "eventName": "Who will the cricket match between Nepal and Oman",
+      "eventType": "general",
+      "yesPrice": "5",
+      "noPrice": "5",
+      "eventCategory": "Politics",
+      "expirationTime": "2022-05-14T04:39:06.458Z",
+      "tag": "#Game#NepalvsOman",
+      "totalNumberOfPeople": "50K"
+    },
+    {
+      "id": "4",
+      "eventName": "Who will the cricket match between Nepal and Oman",
+      "eventType": "general",
+      "yesPrice": "3",
+      "noPrice": "7",
+      "eventCategory": "game",
+      "expirationTime": "2022-05-14T04:39:06.458Z",
+      "tag": "#Game#NepalvsOman",
+      "totalNumberOfPeople": "50K"
+    }
+  ]
+}

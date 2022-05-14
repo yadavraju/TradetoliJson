@@ -1,0 +1,43 @@
+{
+  "id": "1",
+  "eventName": "Who will the cricket match between Nepal and Oman",
+  "yesPrice": "5",
+  "noPrice": "5",
+  "eventType": "game",
+  "tag": "#Game#Nepal#Oman",
+  "totalVolume": "RS 50K",
+  "totalNumberOfPeople": "50K",
+  "createDate": "2022-05-14T05:16:14.398Z",
+  "expirationDate": "2022-05-14T05:16:14.398Z",
+  "settlementDate": "2022-05-14T05:16:14.398Z",
+  "sourceOfTruth": "url of event create based eg for game www.cricbuzz.com",
+  "relatedNewsList": [
+    {
+      "url": "www.google.com/news",
+      "title": "some headlines",
+      "thumbnail": "image url"
+    },
+    {
+      "url": "www.kathmandupost.com/news",
+      "title": "some headlines",
+      "thumbnail": "image url"
+    }
+  ],
+  "priceGraphData": [
+    {
+      "dateTime": "2022-05-14T05:16:14.398Z",
+      "yesPrice": "5.00",
+      "noPrice": "5.00"
+    },
+    {
+      "dateTime": "2022-05-14T05:16:14.398Z",
+      "yesPrice": "4.00",
+      "noPrice": "6"
+    },
+    {
+      "dateTime": "2022-05-14T05:16:14.398Z",
+      "yesPrice": "7",
+      "noPrice": "3"
+    }
+  ]
+}
